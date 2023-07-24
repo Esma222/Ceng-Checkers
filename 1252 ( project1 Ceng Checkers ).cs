@@ -6,7 +6,7 @@ namespace cengcheckers
     class Program
     {
 
-        static void Menu()//Printing the menu to console
+        static void Menu()//Printing the menu to console.
         {
 
             Console.Clear();
